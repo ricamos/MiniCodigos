@@ -19,7 +19,7 @@ cara_coroa.py - Faz um teste de quantas amostras forem necessárias simulando jo
 Cada arquivo é um projeto diferente. É necessario consultar o docstring de cada arquivo para ajuda.
 
 ## Licensing <a name="licensing"></a>
-Consulte LICENCE para saber como utilizar os codigos disponiveis.
+Consulte [LICENSE](https://github.com/ricamos/MiniCodigos/blob/master/LICENSE) para saber como utilizar os codigos disponíveis.
 
 ## Authors <a name="author"></a>
 Ricardo Coelho
